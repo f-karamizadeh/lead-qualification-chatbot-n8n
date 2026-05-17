@@ -83,6 +83,11 @@ Use:
 
 
 ---
+👨‍💻 Author
+
+Built by Faramarz Karamizadeh
+
+    GitHub: https://github.com/f-karamizadeh
 
 ## License
 
